@@ -44,3 +44,8 @@ def nyc_pigeon_organizer(data_hash)
   }
   pigeon_list
 end
+
+###########
+###########
+
+puts nyc_pigeon_organizer(pigeon_data)
