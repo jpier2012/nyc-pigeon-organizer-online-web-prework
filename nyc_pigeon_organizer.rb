@@ -13,10 +13,10 @@ def nyc_pigeon_organizer(data_hash)
           pigeon_list[element] = {
             :color => [],
             :gender => [],
-            :lives => []            
+            :lives => []
           }
         end
-        pigeon_list[element][stat] << key.to_s 
+        pigeon_list[element][stat] << key.to_s
       }
     }
   }
