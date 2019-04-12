@@ -8,11 +8,11 @@ def nyc_pigeon_organizer(data_hash)
     stats.each {|key, array|
       array.each {|element|
         if !name_list.include?(element)
-          
+
       }
     }
   }
 
 
-  
+
 end
